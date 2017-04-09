@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/isotope3/echo.svg?branch=master)](https://travis-ci.org/isotope3/echo)
+[![verage Status](https://coveralls.io/repos/github/isotope3/echo/badge.svg?branch=master)](https://coveralls.io/github/isotope3/echo?branch=master)
 
 
 Echo
