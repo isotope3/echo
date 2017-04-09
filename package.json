@@ -1,6 +1,6 @@
 {
   "name": "@isotope3/echo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simply echoes back the passed argument",
   "main": "index.js",
   "scripts": {
