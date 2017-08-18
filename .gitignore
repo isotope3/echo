@@ -1,3 +1,5 @@
+.travis.yml
+.coveralls.yml
 .npmrc
 node_modules/*
 
